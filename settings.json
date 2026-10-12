@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "davilegaldosbolos.aternos.me",
-    "port": 21027,
-    "version": "26.3",
+    "ip": "Eteria-65X8.aternos.me:61905",
+    "port": 61905,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
