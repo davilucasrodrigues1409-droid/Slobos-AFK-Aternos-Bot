@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Eteria-65X8.aternos.me:61905",
+    "ip": "Eteria-65X8.aternos.me",
     "port": 61905,
     "version": "26.2",
     "try-creative": false
